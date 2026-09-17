@@ -1,25 +1,28 @@
-<h1>Print Queue Management</h1>
-This tutorial outlines the process of managing the Windows print queue by identifying, pausing,
-resuming, and clearing stuck print jobs—one of the most common troubleshooting tasks in IT
-support.<br />
-<h2>Environments and Technologies Used</h2>
-- Microsoft Azure
-- Windows Environment
-<h2>Operating Systems Used </h2>
-- Windows 11
-<h2>Print Queue Management</h2>
-<p>
+# Print Queue Management
 
-[Image Placeholder]
-</p>
-<p>
-Add my own home printer to bluetooth and devices.
-</p>
-<br />
-<p>
+## Objective
+Manage the Windows print queue by identifying, pausing, resuming, and clearing stuck print jobs.
 
+## Scenario
+This lab simulated a common help desk scenario where a stuck print job was blocking a print queue, requiring troubleshooting to restore normal printing.
+
+## Tasks Completed
+Added a home printer through Bluetooth & Devices settings.
+Ran a mock scenario simulating stuck print jobs and cleared the queue.
+
+## Screenshots
 [Image Placeholder]
-</p>
-<p>
-Did mock scenario of "stuck print jobs" and clear the queue.
-</p>
+[Image Placeholder]
+
+## Skills Demonstrated
+Print Queue Management
+Device Setup
+Troubleshooting
+
+## What I Learned
+This lab showed me how something as simple as a stuck print job can block an entire queue, and how clearing it quickly restores functionality for other users waiting to print.
+
+## Lab Environment
+Microsoft Azure
+Windows Environment
+Windows 11
